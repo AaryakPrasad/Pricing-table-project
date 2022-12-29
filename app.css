@@ -33,6 +33,7 @@ body{
 .pricing-img{
     max-width: 100%;
     margin-top: 25px;
+    margin-bottom: 50px;
 }
 .pricing-plan{
     border-bottom: 1px solid #191b1d;
